@@ -5,6 +5,7 @@ namespace ConsoleApp
     {
         public static void Main()
         {
+			var test = 1;
             Console.WriteLine("Welcome Praveen!");
         }
     }
